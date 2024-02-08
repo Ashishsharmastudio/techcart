@@ -12,7 +12,7 @@ const Navbar = () => {
                 <div className=" relative w-full hidden lg:inline-flex lg:w-[600px] h-10 text-base text-primeColor border-[1px] border-black items-center gap-2 justify-between px-6 rounded-md">
                     <input
                         type="text"
-                        placeholder="search your product here"
+                        placeholder="search your product here in searchbar"
                         className="flex-1 h-full outline-none bg-transparent placeholder:text-gray-600 " />
                 </div>
                 <div>
